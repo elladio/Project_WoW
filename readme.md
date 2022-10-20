@@ -12,7 +12,7 @@ add a description of my project
 
 ### Wireframes
 
-![some text]()
+![some text](https://media.4-paws.org/f/f/0/3/ff0344d9482492c516cebc84bd8dead392116209/VIER_PFOTEN_2021-07-03_00027-2890x2000.jpg)
 
 #### Daily Plan
 
