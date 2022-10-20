@@ -20,8 +20,8 @@ add a description of my project
 | 1  | choose api|
 |2   | render data|
 |3   | create form|
-|4   |------|
-|5   |------|
+|4   |  styling   |
+|5   |            |
 
-###Link to proj
-[My Project Live PAge](enter address here)
+###Project link!
+[My project in action :D](https://project-wow-ebon.vercel.app/)
