@@ -1,5 +1,5 @@
 ## WoW character Database
-The purpouse of this app is to explore user characters in the hit MMO World Of Warcraft. There are also goin to be seperate tabs to pull up in game info, such as Mythic plus Dungeon Affixes for the week, and Fated raid Affixes for the week.
+The purpouse of this app is to explore monster families  in the hit MMO World Of Warcraft. There are also goin to be seperate tabs to pull up in game info, such as Mythic plus Dungeon Affixes for the week, and Fated raid Affixes for the week.
 
 ### Technologies used:
 - Html
