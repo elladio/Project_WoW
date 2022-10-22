@@ -1,5 +1,5 @@
-## WoW character Database
-The purpouse of this app is to explore monster families  in the hit MMO World Of Warcraft. There are also goin to be seperate tabs to pull up in game info, such as Mythic plus Dungeon Affixes for the week, and Fated raid Affixes for the week.
+## Disney friends!
+The purpouse of this app is to explore Disney characters! From Bruno in ***Enchanto*** all the way back to Mulan from... ***Mulan***!
 
 ### Technologies used:
 - Html
@@ -11,7 +11,7 @@ The purpouse of this app is to explore monster families  in the hit MMO World Of
 
 ### Wireframes
 
-![some text](https://i.imgur.com/BkJaGxI.png)
+![some text](https://i.imgur.com/FIr72N6.png)
 
 #### Daily Plan
 
