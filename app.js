@@ -1,0 +1,1 @@
+const WoWurl = "https://us.api.blizzard.com/profile/user/wow?namespace=profile-us&locale=en_US&access_token=USkq4M3Sk1j2MKjJAdIpIePoMvLz20BanD"
