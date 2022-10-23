@@ -16,6 +16,7 @@ The purpouse of this app is to explore Disney characters! From Bruno in ***Encha
 #### Daily Plan
 
 | Day | Goal |
+| ----------- | ----------- |
 | 0  | choose api/set up basics of page |
 |2   |      render data to console      |
 |3   |      render to page              |
