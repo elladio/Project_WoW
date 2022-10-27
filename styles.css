@@ -1,3 +1,26 @@
-body {
-    background-image: ;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fantasy;
+}
+
+body{
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/16/Spaceship_Earth_and_entry_plaza_2021.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-image: linear-gradient((rgba(0,8,51,0.9),rgba(0,8,51,0.9));
+display: flex;
+align-items: center;
+justify-content: center;
+/* font-family: 'Open Sans', sans-serif; */
+};
+
+
+
+div, h1 {
+    text-align: center;
+    font-size: 35px;
 }
