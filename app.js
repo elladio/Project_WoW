@@ -10,7 +10,7 @@ function characSearch(char){
     const url = `${disneyUrl}${char}`;
     $.ajax(url).then((disneyData) => {
         console.log(disneyData)
-        const $main = $("div.container");
+        const $main = $("div.response");
         $main.empty();
         $main.append($("<div>").html(`<p> Who?: ${disneyData.data[0].name}</p>`))
         $main.append($("<div>").html(`<p>Where? ${disneyData.data[0].films}:</p>`));
