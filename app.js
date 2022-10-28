@@ -1,15 +1,16 @@
 
 const disneyUrl = "https://api.disneyapi.dev/character?name="
-const $main = $("main");
-$main.append($("<div>").html(`<p>Who? :</p>`));
-$main.append($("<div>").html(`<p>Where? :</p>`));
-$main.append($("<div>").html(`<p>Related materials?</p>`));
+// const $main = $("main");
+// $main.append($("<div>").html(`<p>Who? :</p>`));
+// $main.append($("<div>").html(`<p>Where? :</p>`));
+// $main.append($("<div>").html(`<p>Related materials?</p>`));
 
 
 function characSearch(char){
     const url = `${disneyUrl}${char}`;
     $.ajax(url).then((disneyData) => {
         console.log(disneyData)
+        const $main = $("div.container");
         $main.empty();
         $main.append($("<div>").html(`<p> Who?: ${disneyData.data[0].name}</p>`))
         $main.append($("<div>").html(`<p>Where? ${disneyData.data[0].films}:</p>`));
